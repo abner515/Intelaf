@@ -1,6 +1,8 @@
 /* Empty. Add your own CSS if you like */
 ion-content{
-	background: #B69A63;
+	background: url("https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/gallery_big/public/media/image/2015/02/85633-wallpapers-android.jpg?itok=umZv4Ngy");
+	background-size: cover;
+
 }
 h2{
 		font-family: 'Merriweather', serif;	
@@ -10,6 +12,8 @@ h2{
 	padding: 2%;
 }
 .cgoria{
+	background: #fff;
+	opacity: .5;
 	border: 2px solid black;
 	border-radius:25px;
 	width: 100%;

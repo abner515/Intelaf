@@ -20,7 +20,31 @@ angular.module('starter.controllers', [])
   },{
     nombre: 'Impresora',
     icon: 'fa fa-print'
+  },{
+    nombre:'Gaming',
+    icon: 'fas fa-gamepad'
+  },{
+    nombre: 'Computadoras',
+    icon: 'fas fa-laptop-code'
+  },{
+    nombre: 'Accesorios',
+    icon: 'fas fa-keyboard'
+  },{
+    nombre: 'Componentes PC',
+    icon: 'fab fa-steam-symbol'
+  },{
+    nombre: 'Muebles y Oficina',
+    icon: 'far fa-building'
+  },{
+  nombre: 'Camaras',
+  icon: 'fas fa-camera-retro'  
   
+
+
+
+
+
+
   }]
 
 
