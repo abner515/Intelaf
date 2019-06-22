@@ -1,0 +1,20 @@
+.no{
+	padding: 0;
+	margin: 0;
+	background: #1565C0; 
+}
+
+.gif{
+	width: 130%;
+	height: 140%;
+}
+
+.pngal{
+	width: 90%;
+	height: 90%;
+	margin-right: !important;
+}
+
+.fon{
+	background: #F4511E;
+}	

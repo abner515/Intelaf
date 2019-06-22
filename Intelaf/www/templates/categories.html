@@ -1,15 +1,25 @@
 <ion-view view-title="Categorias">
   <ion-content class="padding">
     <!-- Mostrar Categorias-->
-    <h2 class="text-center">Bienvenido a Intelaf</h2>
+    <div class="row">
+      <div class="col h2">
+            <img class="imgaen" src="http://www.intelaf.com/img/top_logo_new_white.png">
+      </div>
+    </div>
     <div class="row">
       <div class="col col-50 cprincipal" ng-repeat="n in cat">
         <div class="col cgoria">
         	<ul>
-	        	<li><i class="{{n.icon}}"></i></li>
-	        	<li><h4>{{n.nombre}}</h4><li>
+	        	<li class="text-center"><i class="{{n.icon}}"></i></li>
+	        	<li class="text-center"><h4>{{n.nombre}}</h4><li>
         	</ul>
         </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col text-center">
+        <img class="img1" src="http://www.intelaf.com/img/iconos/servicios-iloveimg-cropped.png">
       </div>
     </div>
 
